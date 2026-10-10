@@ -83,15 +83,15 @@ export const portfolioData = {
   personalInfo: {
     name: "Shoaib Ul Din",
     location: "Lahore, Pakistan",
-    headline: "Creative Video Editor | AI Video Creator | Product Manager",
-    summary: "Creative Video Editor with freelance and agency experience crafting engaging short-form content and AI-generated videos. Skilled in visual pacing, captions, sound cleanup, and high-retention editing for digital platforms.",
-    introduction: "Hi, I'm Shoaib Ul Din — a creative video editor, AI video creator, and product manager currently based in Lahore, Pakistan. I specialize in high-retention short-form content (Reels & Shorts), AI-generated video production, and visual editing using CapCut and cutting-edge AI workflows.",
+    headline: "Creative Video Editor | AI Video Creator | Social Media Manager | Product Lead",
+    summary: "Creative Video Editor and Social Media Creator with freelance and agency experience crafting engaging short-form content, social media campaigns, and AI-generated videos. Skilled in visual pacing, captions, sound cleanup, and high-retention editing for digital platforms.",
+    introduction: "Hi, I'm Shoaib Ul Din — a creative video editor, AI video creator, social media manager, and product lead currently based in Lahore, Pakistan. I specialize in high-retention short-form content (Reels & Shorts), social media strategy, AI-generated video production, and visual editing using CapCut and cutting-edge AI workflows.",
     
     about: {
-      title: "Passionate Video Editor & AI Content Creator with agency and product experience.",
+      title: "Passionate Video Editor, Social Media Creator & AI Video Creator with agency and product experience.",
       description: [
-        "With hands-on experience as a Video Editor & AI Video Creator at Paramount Intelligence and self-employed freelance work since 2023, I create high-converting short-form videos, reels, and AI animations.",
-        "Equipped with a Bachelor's degree in Computer Science, I bridge technical product management thinking with creative visual storytelling, precise pacing, and audio cleanup."
+        "With hands-on experience as a Video Editor, AI Video Creator, and Social Media Manager at Paramount Intelligence and self-employed freelance work since 2023, I create high-converting short-form videos, reels, and AI animations.",
+        "Equipped with a Bachelor's degree in Computer Science, I bridge technical product management thinking with creative visual storytelling, social media strategy, precise pacing, and audio cleanup."
       ],
       education: {
         degree: "Bachelor's in Computer Science",
@@ -99,7 +99,7 @@ export const portfolioData = {
       },
       strengths: [
         "Strong attention to detail",
-        "Creative visual sense",
+        "Creative visual sense & social media strategy",
         "Reliable communication & fast turnaround",
         "Good at following client guidelines"
       ],
@@ -120,8 +120,8 @@ export const portfolioData = {
           icon: "Scissors"
         },
         {
-          title: "Product Manager (Paramount Intelligence)",
-          description: "4 months of experience managing digital content pipelines, project tasks, and product coordination.",
+          title: "Social Media & Product Manager (Paramount Intelligence)",
+          description: "4 months of experience managing social media strategy, content pipelines, reels growth, and product coordination.",
           icon: "Kanban"
         }
       ]
@@ -256,17 +256,18 @@ export const portfolioData = {
   experiences: [
     {
       id: "exp-1",
-      role: "Video Editor & AI Video Creator (Product Manager)",
+      role: "Video Editor, AI Video Creator & Social Media Manager (Product Manager)",
       company: "Paramount Intelligence",
       contactPerson: "CEO: Ali Azzam (+923342870512)",
       period: "4 Months Internship",
       category: "AI Video Production",
-      description: "Worked as Video Editor, AI Video Creator, and Product Manager at Paramount Intelligence under the leadership of CEO Ali Azzam (+923342870512).",
+      description: "Worked as Video Editor, AI Video Creator, Social Media Manager, and Product Manager at Paramount Intelligence under the leadership of CEO Ali Azzam (+923342870512).",
       achievements: [
-        "Edited short-form marketing videos, reels, and promotional content.",
-        "Created and enhanced AI-driven videos using AI tools.",
-        "Handled pacing, subtitles, transitions, and audio cleanup.",
-        "Managed product coordination, task prioritization, and content workflows."
+        "Edited high-retention short-form marketing videos, reels, and promotional campaign assets.",
+        "Managed social media content strategy, short-form reels growth, and audience engagement optimization.",
+        "Created and enhanced AI-driven videos using cutting-edge AI content generation tools.",
+        "Applied visual pacing, animated subtitles/captions, transitions, and audio cleanup for social channels.",
+        "Managed product content pipelines, task prioritization, and cross-functional team workflows."
       ]
     },
     {
