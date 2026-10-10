@@ -5,6 +5,8 @@ import { Play, Search, Sparkles, AlertCircle, RefreshCw, Film } from 'lucide-rea
 // Import build-time generated video manifest
 import manifestData from '../data/videoManifest.json';
 
+const FALLBACK_VIDEO_URL = "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4";
+
 export interface VideoItem {
   id: string;
   filename: string;
@@ -133,6 +135,13 @@ export const AIVideoGallery: React.FC<AIVideoGalleryProps> = ({ onOpenVideoModal
                   preload="metadata"
                   muted
                   loop
+                  onError={(e) => {
+                    const v = e.target as HTMLVideoElement;
+                    if (!v.dataset.hasFallback) {
+                      v.dataset.hasFallback = "true";
+                      v.src = FALLBACK_VIDEO_URL;
+                    }
+                  }}
                   onMouseEnter={(e) => (e.target as HTMLVideoElement).play().catch(() => {})}
                   onMouseLeave={(e) => {
                     const v = e.target as HTMLVideoElement;

@@ -137,6 +137,14 @@ export const VideoModal: React.FC<VideoModalProps> = ({ isOpen, onClose, video }
               poster={video.poster || undefined}
               onTimeUpdate={handleTimeUpdate}
               onEnded={() => setIsPlaying(false)}
+              onError={(e) => {
+                const v = e.target as HTMLVideoElement;
+                if (!v.dataset.hasFallback) {
+                  v.dataset.hasFallback = "true";
+                  v.src = "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4";
+                  v.play().catch(() => {});
+                }
+              }}
               playsInline
               className="w-full h-full object-contain"
               onClick={togglePlay}

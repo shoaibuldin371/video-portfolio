@@ -37,11 +37,32 @@ function generateManifest() {
     }
   }
 
-  const files = fs.readdirSync(VIDEO_DIR);
+  const files = fs.existsSync(VIDEO_DIR) ? fs.readdirSync(VIDEO_DIR) : [];
   const videoFiles = files.filter(file => {
     const ext = path.extname(file).toLowerCase();
     return (ext === '.mp4' || ext === '.webm');
   });
+
+  // If running in a cloud CI/CD environment (like Vercel) where .mp4 files are ignored by git,
+  // do not overwrite an existing manifest with 0 videos. Preserve the committed manifest.
+  if (videoFiles.length === 0) {
+    if (fs.existsSync(OUTPUT_FILE)) {
+      try {
+        const existingData = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf8'));
+        if (existingData && Array.isArray(existingData.videos) && existingData.videos.length > 0) {
+          console.log(`Cloud build environment detected with 0 local .mp4 files. Retaining existing manifest with ${existingData.videos.length} videos.`);
+          const publicDir = path.dirname(PUBLIC_OUTPUT_FILE);
+          if (!fs.existsSync(publicDir)) {
+            fs.mkdirSync(publicDir, { recursive: true });
+          }
+          fs.writeFileSync(PUBLIC_OUTPUT_FILE, JSON.stringify(existingData, null, 2));
+          return;
+        }
+      } catch (e) {
+        console.error('Error reading existing manifest fallback:', e.message);
+      }
+    }
+  }
 
   const seenHashes = new Set();
   const seenSizes = new Set(); // also check exact size match
