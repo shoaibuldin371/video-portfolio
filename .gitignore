@@ -11,8 +11,8 @@ dist
 dist-ssr
 *.local
 
-# Heavy media files for git limits
-public/videos/ai/*.mp4
+# Media files
+!public/videos/ai/*.mp4
 !public/videos/ai/manifest.json
 !public/videos/ai/metadata.json
 

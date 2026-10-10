@@ -1,198 +1,211 @@
 {
-  "generatedAt": "2026-10-10T17:03:45.811Z",
-  "totalVideos": 79,
+  "generatedAt": "2026-10-10T19:55:27.122Z",
+  "totalVideos": 78,
   "videos": [
     {
       "id": "ai-video-1",
-      "filename": "0804 (3).mp4",
-      "src": "/videos/ai/0804%20(3).mp4",
-      "title": "AI Video #1",
+      "filename": "0804_3.mp4",
+      "src": "/videos/ai/0804_3.mp4",
+      "title": "0804 (3)",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"0804 (3)\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-2",
-      "filename": "0806 (1)(1).mp4",
-      "src": "/videos/ai/0806%20(1)(1).mp4",
-      "title": "AI Video #2",
+      "filename": "0806_11.mp4",
+      "src": "/videos/ai/0806_11.mp4",
+      "title": "0806 (1)(1)",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"0806 (1)(1)\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-3",
-      "filename": "0817 (2)(1).mp4",
-      "src": "/videos/ai/0817%20(2)(1).mp4",
-      "title": "AI Video #3",
+      "filename": "0817_21.mp4",
+      "src": "/videos/ai/0817_21.mp4",
+      "title": "0817 (2)(1)",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"0817 (2)(1)\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-4",
-      "filename": "0902 (3).mp4",
-      "src": "/videos/ai/0902%20(3).mp4",
-      "title": "AI Video #4",
+      "filename": "0902_3.mp4",
+      "src": "/videos/ai/0902_3.mp4",
+      "title": "0902 (3)",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"0902 (3)\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-5",
-      "filename": "0909 (3).mp4",
-      "src": "/videos/ai/0909%20(3).mp4",
-      "title": "AI Video #5",
+      "filename": "0909_3.mp4",
+      "src": "/videos/ai/0909_3.mp4",
+      "title": "0909 (3)",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"0909 (3)\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-6",
-      "filename": "14 aug .mp4",
-      "src": "/videos/ai/14%20aug%20.mp4",
-      "title": "AI Video #6",
+      "filename": "14_aug_.mp4",
+      "src": "/videos/ai/14_aug_.mp4",
+      "title": "14 Aug",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"14 Aug\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-7",
-      "filename": "14 aug 1st video 1.mp4",
-      "src": "/videos/ai/14%20aug%201st%20video%201.mp4",
-      "title": "AI Video #7",
+      "filename": "14_aug_1st_video_1.mp4",
+      "src": "/videos/ai/14_aug_1st_video_1.mp4",
+      "title": "14 Aug 1st Video 1",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"14 Aug 1st Video 1\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-8",
-      "filename": "14 auuu.mp4",
-      "src": "/videos/ai/14%20auuu.mp4",
-      "title": "AI Video #8",
+      "filename": "14_auuu.mp4",
+      "src": "/videos/ai/14_auuu.mp4",
+      "title": "14 Auuu",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"14 Auuu\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-9",
-      "filename": "6th date 1st eng.mp4",
-      "src": "/videos/ai/6th%20date%201st%20eng.mp4",
-      "title": "AI Video #9",
+      "filename": "6th_date_1st_eng.mp4",
+      "src": "/videos/ai/6th_date_1st_eng.mp4",
+      "title": "6th Date 1st Eng",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"6th Date 1st Eng\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-10",
-      "filename": "A'oodhu Billah When Angry.mp4",
-      "src": "/videos/ai/A'oodhu%20Billah%20When%20Angry.mp4",
-      "title": "AI Video #10",
+      "filename": "aaaa.mp4",
+      "src": "/videos/ai/aaaa.mp4",
+      "title": "AAAA",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"AAAA\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-11",
-      "filename": "AAAA.mp4",
-      "src": "/videos/ai/AAAA.mp4",
-      "title": "AI Video #11",
+      "filename": "al_rehman.mp4",
+      "src": "/videos/ai/al_rehman.mp4",
+      "title": "Al Rehman",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Al Rehman\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-12",
-      "filename": "Al rehman.mp4",
-      "src": "/videos/ai/Al%20rehman.mp4",
-      "title": "AI Video #12",
+      "filename": "aoodhu_billah_when_angry.mp4",
+      "src": "/videos/ai/aoodhu_billah_when_angry.mp4",
+      "title": "A'oodhu Billah When Angry",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"A'oodhu Billah When Angry\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-13",
-      "filename": "Apple counting fb.mp4",
-      "src": "/videos/ai/Apple%20counting%20fb.mp4",
-      "title": "AI Video #13",
+      "filename": "apple_counting_fb.mp4",
+      "src": "/videos/ai/apple_counting_fb.mp4",
+      "title": "Apple Counting Fb",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Apple Counting Fb\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -201,118 +214,126 @@
       "id": "ai-video-14",
       "filename": "b.mp4",
       "src": "/videos/ai/b.mp4",
-      "title": "AI Video #14",
+      "title": "B",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"B\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-15",
-      "filename": "baro ka adab].mp4",
-      "src": "/videos/ai/baro%20ka%20adab%5D.mp4",
-      "title": "AI Video #15",
+      "filename": "baro_ka_adab.mp4",
+      "src": "/videos/ai/baro_ka_adab.mp4",
+      "title": "Baro Ka Adab",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Baro Ka Adab\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-16",
-      "filename": "brushing teeth.mp4",
-      "src": "/videos/ai/brushing%20teeth.mp4",
-      "title": "AI Video #16",
+      "filename": "brushing_teeth.mp4",
+      "src": "/videos/ai/brushing_teeth.mp4",
+      "title": "Brushing Teeth",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Brushing Teeth\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-17",
-      "filename": "colors red blue.mp4",
-      "src": "/videos/ai/colors%20red%20blue.mp4",
-      "title": "AI Video #17",
+      "filename": "colors_red_blue.mp4",
+      "src": "/videos/ai/colors_red_blue.mp4",
+      "title": "Colors Red Blue",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Colors Red Blue\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-18",
-      "filename": "counting 11 to 20.mp4",
-      "src": "/videos/ai/counting%2011%20to%2020.mp4",
-      "title": "AI Video #18",
+      "filename": "counting.mp4",
+      "src": "/videos/ai/counting.mp4",
+      "title": "Counting",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Counting\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-19",
-      "filename": "counting 123.mp4",
-      "src": "/videos/ai/counting%20123.mp4",
-      "title": "AI Video #19",
+      "filename": "counting_11_to_20.mp4",
+      "src": "/videos/ai/counting_11_to_20.mp4",
+      "title": "Counting 11 To 20",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Counting 11 To 20\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-20",
-      "filename": "counting apple grandpa.mp4",
-      "src": "/videos/ai/counting%20apple%20grandpa.mp4",
-      "title": "AI Video #20",
+      "filename": "counting_123.mp4",
+      "src": "/videos/ai/counting_123.mp4",
+      "title": "Counting 123",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Counting 123\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-21",
-      "filename": "counting.mp4",
-      "src": "/videos/ai/counting.mp4",
-      "title": "AI Video #21",
+      "filename": "counting_apple_grandpa.mp4",
+      "src": "/videos/ai/counting_apple_grandpa.mp4",
+      "title": "Counting Apple Grandpa",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Counting Apple Grandpa\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -321,13 +342,14 @@
       "id": "ai-video-22",
       "filename": "d.mp4",
       "src": "/videos/ai/d.mp4",
-      "title": "AI Video #22",
+      "title": "D",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"D\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -336,58 +358,62 @@
       "id": "ai-video-23",
       "filename": "days.mp4",
       "src": "/videos/ai/days.mp4",
-      "title": "AI Video #23",
+      "title": "Days",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Days\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-24",
-      "filename": "deer and bunny milk dua.mp4",
-      "src": "/videos/ai/deer%20and%20bunny%20milk%20dua.mp4",
-      "title": "AI Video #24",
+      "filename": "deer_and_bunny_milk_dua.mp4",
+      "src": "/videos/ai/deer_and_bunny_milk_dua.mp4",
+      "title": "Deer And Bunny Milk Dua",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Deer And Bunny Milk Dua\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-25",
-      "filename": "dosra kalma.mp4",
-      "src": "/videos/ai/dosra%20kalma.mp4",
-      "title": "AI Video #25",
+      "filename": "dosra_kalma.mp4",
+      "src": "/videos/ai/dosra_kalma.mp4",
+      "title": "Dosra Kalma",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Dosra Kalma\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-26",
-      "filename": "exercise 21.mp4",
-      "src": "/videos/ai/exercise%2021.mp4",
-      "title": "AI Video #26",
+      "filename": "exercise_21.mp4",
+      "src": "/videos/ai/exercise_21.mp4",
+      "title": "Exercise 21",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Exercise 21\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -396,73 +422,78 @@
       "id": "ai-video-27",
       "filename": "f.mp4",
       "src": "/videos/ai/f.mp4",
-      "title": "AI Video #27",
+      "title": "F",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"F\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-28",
-      "filename": "fast and slow.mp4",
-      "src": "/videos/ai/fast%20and%20slow.mp4",
-      "title": "AI Video #28",
+      "filename": "fast_and_slow.mp4",
+      "src": "/videos/ai/fast_and_slow.mp4",
+      "title": "Fast And Slow",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Fast And Slow\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-29",
-      "filename": "fat and thin.mp4",
-      "src": "/videos/ai/fat%20and%20thin.mp4",
-      "title": "AI Video #29",
+      "filename": "fat_and_thin.mp4",
+      "src": "/videos/ai/fat_and_thin.mp4",
+      "title": "Fat And Thin",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Fat And Thin\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-30",
-      "filename": "full and empty.mp4",
-      "src": "/videos/ai/full%20and%20empty.mp4",
-      "title": "AI Video #30",
+      "filename": "full_and_empty.mp4",
+      "src": "/videos/ai/full_and_empty.mp4",
+      "title": "Full And Empty",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Full And Empty\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-31",
-      "filename": "fvrt fruit.mp4",
-      "src": "/videos/ai/fvrt%20fruit.mp4",
-      "title": "AI Video #31",
+      "filename": "fvrt_fruit.mp4",
+      "src": "/videos/ai/fvrt_fruit.mp4",
+      "title": "Fvrt Fruit",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Fvrt Fruit\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -471,28 +502,30 @@
       "id": "ai-video-32",
       "filename": "grandpaa.mp4",
       "src": "/videos/ai/grandpaa.mp4",
-      "title": "AI Video #32",
+      "title": "Grandpaa",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Grandpaa\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-33",
-      "filename": "jazakAllah 1.mp4",
-      "src": "/videos/ai/jazakAllah%201.mp4",
-      "title": "AI Video #33",
+      "filename": "jazakallah_1.mp4",
+      "src": "/videos/ai/jazakallah_1.mp4",
+      "title": "JazakAllah 1",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"JazakAllah 1\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -501,13 +534,14 @@
       "id": "ai-video-34",
       "filename": "kahani4.mp4",
       "src": "/videos/ai/kahani4.mp4",
-      "title": "AI Video #34",
+      "title": "Kahani4",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Kahani4\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -516,223 +550,238 @@
       "id": "ai-video-35",
       "filename": "kalma.mp4",
       "src": "/videos/ai/kalma.mp4",
-      "title": "AI Video #35",
+      "title": "Kalma",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Kalma\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-36",
-      "filename": "khana zaya.mp4",
-      "src": "/videos/ai/khana%20zaya.mp4",
-      "title": "AI Video #36",
+      "filename": "khana_zaya.mp4",
+      "src": "/videos/ai/khana_zaya.mp4",
+      "title": "Khana Zaya",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Khana Zaya\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-37",
-      "filename": "lal apple suraj.mp4",
-      "src": "/videos/ai/lal%20apple%20suraj.mp4",
-      "title": "AI Video #37",
+      "filename": "lal_apple_suraj.mp4",
+      "src": "/videos/ai/lal_apple_suraj.mp4",
+      "title": "Lal Apple Suraj",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Lal Apple Suraj\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-38",
-      "filename": "learning days.mp4",
-      "src": "/videos/ai/learning%20days.mp4",
-      "title": "AI Video #38",
+      "filename": "learning_days.mp4",
+      "src": "/videos/ai/learning_days.mp4",
+      "title": "Learning Days",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Learning Days\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-39",
-      "filename": "Learning Shapes.mp4",
-      "src": "/videos/ai/Learning%20Shapes.mp4",
-      "title": "AI Video #39",
+      "filename": "learning_shapes.mp4",
+      "src": "/videos/ai/learning_shapes.mp4",
+      "title": "Learning Shapes",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Learning Shapes\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-40",
-      "filename": "letter e.mp4",
-      "src": "/videos/ai/letter%20e.mp4",
-      "title": "AI Video #40",
+      "filename": "letter_e.mp4",
+      "src": "/videos/ai/letter_e.mp4",
+      "title": "Letter E",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Letter E\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-41",
-      "filename": "letter j.mp4",
-      "src": "/videos/ai/letter%20j.mp4",
-      "title": "AI Video #41",
+      "filename": "letter_j.mp4",
+      "src": "/videos/ai/letter_j.mp4",
+      "title": "Letter J",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Letter J\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-42",
-      "filename": "letter p.mp4",
-      "src": "/videos/ai/letter%20p.mp4",
-      "title": "AI Video #42",
+      "filename": "letter_kha.mp4",
+      "src": "/videos/ai/letter_kha.mp4",
+      "title": "Urdu Letter خ",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Urdu Letter خ\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-43",
-      "filename": "letter خ .mp4",
-      "src": "/videos/ai/letter%20%D8%AE%20.mp4",
-      "title": "AI Video #43",
+      "filename": "letter_p.mp4",
+      "src": "/videos/ai/letter_p.mp4",
+      "title": "Letter P",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Letter P\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-44",
-      "filename": "mam humaira.mp4",
-      "src": "/videos/ai/mam%20humaira.mp4",
-      "title": "AI Video #44",
+      "filename": "mam_humaira.mp4",
+      "src": "/videos/ai/mam_humaira.mp4",
+      "title": "Mam Humaira",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Mam Humaira\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-45",
-      "filename": "nmber 2.mp4",
-      "src": "/videos/ai/nmber%202.mp4",
-      "title": "AI Video #45",
+      "filename": "nmber_2.mp4",
+      "src": "/videos/ai/nmber_2.mp4",
+      "title": "Nmber 2",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Nmber 2\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-46",
-      "filename": "number 10.mp4",
-      "src": "/videos/ai/number%2010.mp4",
-      "title": "AI Video #46",
+      "filename": "number_10.mp4",
+      "src": "/videos/ai/number_10.mp4",
+      "title": "Number 10",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Number 10\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-47",
-      "filename": "number 2.mp4",
-      "src": "/videos/ai/number%202.mp4",
-      "title": "AI Video #47",
+      "filename": "number_2.mp4",
+      "src": "/videos/ai/number_2.mp4",
+      "title": "Number 2",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Number 2\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-48",
-      "filename": "number 4.mp4",
-      "src": "/videos/ai/number%204.mp4",
-      "title": "AI Video #48",
+      "filename": "number_4.mp4",
+      "src": "/videos/ai/number_4.mp4",
+      "title": "Number 4",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Number 4\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-49",
-      "filename": "original d.mp4",
-      "src": "/videos/ai/original%20d.mp4",
-      "title": "AI Video #49",
+      "filename": "original_d.mp4",
+      "src": "/videos/ai/original_d.mp4",
+      "title": "Original D",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Original D\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -741,103 +790,110 @@
       "id": "ai-video-50",
       "filename": "paaaa.mp4",
       "src": "/videos/ai/paaaa.mp4",
-      "title": "AI Video #50",
+      "title": "Paaaa",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Paaaa\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-51",
-      "filename": "phaalo ka naam.mp4",
-      "src": "/videos/ai/phaalo%20ka%20naam.mp4",
-      "title": "AI Video #51",
+      "filename": "phaalo_ka_naam.mp4",
+      "src": "/videos/ai/phaalo_ka_naam.mp4",
+      "title": "Phaalo Ka Naam",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Phaalo Ka Naam\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-52",
-      "filename": "phonics taa.mp4",
-      "src": "/videos/ai/phonics%20taa.mp4",
-      "title": "AI Video #52",
+      "filename": "phonics_taa.mp4",
+      "src": "/videos/ai/phonics_taa.mp4",
+      "title": "Phonics Taa",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Phonics Taa\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-53",
-      "filename": "quran video.mp4",
-      "src": "/videos/ai/quran%20video.mp4",
-      "title": "AI Video #53",
+      "filename": "quran_video.mp4",
+      "src": "/videos/ai/quran_video.mp4",
+      "title": "Quran Video",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Quran Video\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-54",
-      "filename": "rango ke peechan.mp4",
-      "src": "/videos/ai/rango%20ke%20peechan.mp4",
-      "title": "AI Video #54",
+      "filename": "rango_ke_peechan.mp4",
+      "src": "/videos/ai/rango_ke_peechan.mp4",
+      "title": "Rango Ke Peechan",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Rango Ke Peechan\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-55",
-      "filename": "rhyme rules.mp4",
-      "src": "/videos/ai/rhyme%20rules.mp4",
-      "title": "AI Video #55",
+      "filename": "rhyme.mp4",
+      "src": "/videos/ai/rhyme.mp4",
+      "title": "Rhyme",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Rhyme\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-56",
-      "filename": "rhyme.mp4",
-      "src": "/videos/ai/rhyme.mp4",
-      "title": "AI Video #56",
+      "filename": "rhyme_rules.mp4",
+      "src": "/videos/ai/rhyme_rules.mp4",
+      "title": "Rhyme Rules",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Rhyme Rules\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -846,163 +902,174 @@
       "id": "ai-video-57",
       "filename": "rules.mp4",
       "src": "/videos/ai/rules.mp4",
-      "title": "AI Video #57",
+      "title": "Rules",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Rules\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-58",
-      "filename": "saaaaaaa urdu.mp4",
-      "src": "/videos/ai/saaaaaaa%20urdu.mp4",
-      "title": "AI Video #58",
+      "filename": "saaaaaaa_urdu.mp4",
+      "src": "/videos/ai/saaaaaaa_urdu.mp4",
+      "title": "Saaaaaaa Urdu",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Saaaaaaa Urdu\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-59",
-      "filename": "sbha uthna ke dua 2.mp4",
-      "src": "/videos/ai/sbha%20uthna%20ke%20dua%202.mp4",
-      "title": "AI Video #59",
+      "filename": "sbha_uthna_ke_dua_2.mp4",
+      "src": "/videos/ai/sbha_uthna_ke_dua_2.mp4",
+      "title": "Sbha Uthna Ke Dua 2",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Sbha Uthna Ke Dua 2\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-60",
-      "filename": "self awarness.mp4",
-      "src": "/videos/ai/self%20awarness.mp4",
-      "title": "AI Video #60",
+      "filename": "self_awarness.mp4",
+      "src": "/videos/ai/self_awarness.mp4",
+      "title": "Self Awarness",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Self Awarness\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-61",
-      "filename": "small m.mp4",
-      "src": "/videos/ai/small%20m.mp4",
-      "title": "AI Video #61",
+      "filename": "small_m.mp4",
+      "src": "/videos/ai/small_m.mp4",
+      "title": "Small M",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Small M\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-62",
-      "filename": "ta phonics.mp4",
-      "src": "/videos/ai/ta%20phonics.mp4",
-      "title": "AI Video #62",
+      "filename": "taaaaa.mp4",
+      "src": "/videos/ai/taaaaa.mp4",
+      "title": "Taaaaa",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Taaaaa\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-63",
-      "filename": "taaaaa.mp4",
-      "src": "/videos/ai/taaaaa.mp4",
-      "title": "AI Video #63",
+      "filename": "tamatar.mp4",
+      "src": "/videos/ai/tamatar.mp4",
+      "title": "Tamatar",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Tamatar\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-64",
-      "filename": "tamatar.mp4",
-      "src": "/videos/ai/tamatar.mp4",
-      "title": "AI Video #64",
+      "filename": "tasmiyah.mp4",
+      "src": "/videos/ai/tasmiyah.mp4",
+      "title": "Tasmiyah",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Tasmiyah\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-65",
-      "filename": "tasmiyah.mp4",
-      "src": "/videos/ai/tasmiyah.mp4",
-      "title": "AI Video #65",
+      "filename": "tawuz.mp4",
+      "src": "/videos/ai/tawuz.mp4",
+      "title": "Tawuz",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Tawuz\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-66",
-      "filename": "tawuz.mp4",
-      "src": "/videos/ai/tawuz.mp4",
-      "title": "AI Video #66",
+      "filename": "ta_phonics.mp4",
+      "src": "/videos/ai/ta_phonics.mp4",
+      "title": "Ta Phonics",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Ta Phonics\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-67",
-      "filename": "thick and thin.mp4",
-      "src": "/videos/ai/thick%20and%20thin.mp4",
-      "title": "AI Video #67",
+      "filename": "thick_and_thin.mp4",
+      "src": "/videos/ai/thick_and_thin.mp4",
+      "title": "Thick And Thin",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Thick And Thin\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
@@ -1011,178 +1078,174 @@
       "id": "ai-video-68",
       "filename": "ttttttttt.mp4",
       "src": "/videos/ai/ttttttttt.mp4",
-      "title": "AI Video #68",
+      "title": "Ttttttttt",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Ttttttttt\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-69",
-      "filename": "what can you do rhyme.mp4",
-      "src": "/videos/ai/what%20can%20you%20do%20rhyme.mp4",
-      "title": "AI Video #69",
+      "filename": "urdu_ba.mp4",
+      "src": "/videos/ai/urdu_ba.mp4",
+      "title": "Urdu Letter ب",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Urdu Letter ب\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-70",
-      "filename": "WhatsApp Video 2026-09-14 at 9.42.17 AM.mp4",
-      "src": "/videos/ai/WhatsApp%20Video%202026-09-14%20at%209.42.17%20AM.mp4",
-      "title": "AI Video #70",
+      "filename": "urdu_pa.mp4",
+      "src": "/videos/ai/urdu_pa.mp4",
+      "title": "Urdu Letter پ",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Urdu Letter پ\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-71",
-      "filename": "zabra.mp4",
-      "src": "/videos/ai/zabra.mp4",
-      "title": "AI Video #71",
+      "filename": "urdu_pa_sound.mp4",
+      "src": "/videos/ai/urdu_pa_sound.mp4",
+      "title": "Urdu Letter پ Sound",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Urdu Letter پ Sound\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-72",
-      "filename": "ب.mp4",
-      "src": "/videos/ai/%D8%A8.mp4",
-      "title": "AI Video #72",
+      "filename": "urdu_ta.mp4",
+      "src": "/videos/ai/urdu_ta.mp4",
+      "title": "Urdu Letter ت",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Urdu Letter ت\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-73",
-      "filename": "ت(1).mp4",
-      "src": "/videos/ai/%D8%AA(1).mp4",
-      "title": "AI Video #73",
+      "filename": "urdu_ta_1.mp4",
+      "src": "/videos/ai/urdu_ta_1.mp4",
+      "title": "Urdu Letter ت (Part 1)",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Urdu Letter ت (Part 1)\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-74",
-      "filename": "ت(2).mp4",
-      "src": "/videos/ai/%D8%AA(2).mp4",
-      "title": "AI Video #74",
+      "filename": "urdu_ta_2.mp4",
+      "src": "/videos/ai/urdu_ta_2.mp4",
+      "title": "Urdu Letter ت (Part 2)",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Urdu Letter ت (Part 2)\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-75",
-      "filename": "ت.mp4",
-      "src": "/videos/ai/%D8%AA.mp4",
-      "title": "AI Video #75",
+      "filename": "urdu_zaa.mp4",
+      "src": "/videos/ai/urdu_zaa.mp4",
+      "title": "Urdu Letter ز",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Urdu Letter ز\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-76",
-      "filename": "ز .mp4",
-      "src": "/videos/ai/%D8%B2%20.mp4",
-      "title": "AI Video #76",
+      "filename": "urdu_zual.mp4",
+      "src": "/videos/ai/urdu_zual.mp4",
+      "title": "Urdu Letter ض",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Urdu Letter ض\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-77",
-      "filename": "ض  .mp4",
-      "src": "/videos/ai/%D8%B6%20%20.mp4",
-      "title": "AI Video #77",
+      "filename": "what_can_you_do_rhyme.mp4",
+      "src": "/videos/ai/what_can_you_do_rhyme.mp4",
+      "title": "What Can You Do Rhyme",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"What Can You Do Rhyme\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
     },
     {
       "id": "ai-video-78",
-      "filename": "پ sound.mp4",
-      "src": "/videos/ai/%D9%BE%20sound.mp4",
-      "title": "AI Video #78",
+      "filename": "zabra.mp4",
+      "src": "/videos/ai/zabra.mp4",
+      "title": "Zabra",
       "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
+      "description": "AI video edit \"Zabra\" created by Shoaib Ul Din for Paramount Intelligence and social media portfolios.",
       "tags": [
         "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
-      ],
-      "poster": null,
-      "dateAdded": "2026-10-10"
-    },
-    {
-      "id": "ai-video-79",
-      "filename": "پ.mp4",
-      "src": "/videos/ai/%D9%BE.mp4",
-      "title": "AI Video #79",
-      "category": "AI Video",
-      "description": "AI-driven short-form video edit created by Shoaib Ul Din for Paramount Intelligence & social clients.",
-      "tags": [
-        "AI Video",
-        "Paramount Intelligence",
-        "Short-Form"
+        "Short-Form",
+        "Reel",
+        "Paramount Intelligence"
       ],
       "poster": null,
       "dateAdded": "2026-10-10"
