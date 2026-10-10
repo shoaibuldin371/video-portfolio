@@ -94,19 +94,17 @@ function generateManifest() {
     const id = path.parse(file).name;
     const fileMeta = existingMetadata[file] || existingMetadata[id] || {};
 
-    let cleanTitle = fileMeta.title;
-    if (!cleanTitle) {
-      cleanTitle = id.replace(/_/g, ' ').replace(/\s+/g, ' ').trim().replace(/\b\w/g, c => c.toUpperCase());
-    }
+    const videoNumber = uniqueVideos.length + 1;
+    const cleanTitle = `AI Video #${videoNumber}`;
 
     uniqueVideos.push({
-      id: `ai-video-${uniqueVideos.length + 1}`,
+      id: `ai-video-${videoNumber}`,
       filename: file,
       src: `/videos/ai/${file}`,
       title: cleanTitle,
-      category: fileMeta.category || 'AI Video',
-      description: fileMeta.description || `AI video edit "${cleanTitle}" created by Shoaib Ul Din for Paramount Intelligence and social media portfolio.`,
-      tags: fileMeta.tags || ['AI Video', 'Paramount Intelligence', 'Short-Form'],
+      category: 'AI Video',
+      description: `AI short-form video #${videoNumber} created by Shoaib Ul Din for Paramount Intelligence and digital media campaigns.`,
+      tags: ['AI Video', 'Paramount Intelligence', 'Short-Form'],
       poster: fileMeta.poster || null,
       dateAdded: fileMeta.dateAdded || '2026-10-10'
     });
