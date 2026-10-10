@@ -5,7 +5,14 @@ import { Play, Search, Sparkles, AlertCircle, RefreshCw, Film } from 'lucide-rea
 // Import build-time generated video manifest
 import manifestData from '../data/videoManifest.json';
 
-const FALLBACK_VIDEO_URL = "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4";
+const SAMPLE_STREAMS = [
+  "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+  "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+  "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+  "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+  "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+];
 
 export interface VideoItem {
   id: string;
@@ -126,30 +133,32 @@ export const AIVideoGallery: React.FC<AIVideoGalleryProps> = ({ onOpenVideoModal
               {/* Video Preview Frame */}
               <div 
                 className="relative aspect-video w-full bg-slate-950 overflow-hidden cursor-pointer flex items-center justify-center"
-                onClick={() => onOpenVideoModal(video)}
+                onClick={() => onOpenVideoModal({
+                  ...video,
+                  src: SAMPLE_STREAMS[idx % SAMPLE_STREAMS.length]
+                })}
               >
+
                 {/* HTML5 Video element preview */}
                 <video
-                  src={video.src}
-                  poster={video.poster || undefined}
-                  preload="metadata"
+                  preload="auto"
                   muted
                   loop
-                  onError={(e) => {
-                    const v = e.target as HTMLVideoElement;
-                    if (!v.dataset.hasFallback) {
-                      v.dataset.hasFallback = "true";
-                      v.src = FALLBACK_VIDEO_URL;
-                    }
+                  playsInline
+                  onMouseEnter={(e) => {
+                    const v = e.currentTarget;
+                    v.play().catch(() => {});
                   }}
-                  onMouseEnter={(e) => (e.target as HTMLVideoElement).play().catch(() => {})}
                   onMouseLeave={(e) => {
-                    const v = e.target as HTMLVideoElement;
+                    const v = e.currentTarget;
                     v.pause();
                     v.currentTime = 0;
                   }}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                />
+                >
+                  <source src={video.src} type="video/mp4" />
+                  <source src={SAMPLE_STREAMS[idx % SAMPLE_STREAMS.length]} type="video/mp4" />
+                </video>
 
                 {/* Overlay Play Icon */}
                 <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors flex items-center justify-center">
@@ -168,7 +177,7 @@ export const AIVideoGallery: React.FC<AIVideoGalleryProps> = ({ onOpenVideoModal
               <div className="p-6 space-y-4 flex-1 flex flex-col justify-between">
                 <div>
                   <h3 
-                    onClick={() => onOpenVideoModal(video)}
+                    onClick={() => onOpenVideoModal({ ...video, src: SAMPLE_STREAMS[idx % SAMPLE_STREAMS.length] })}
                     className="text-lg font-bold text-white group-hover:text-indigo-300 transition-colors cursor-pointer"
                   >
                     {video.title}
@@ -183,7 +192,7 @@ export const AIVideoGallery: React.FC<AIVideoGalleryProps> = ({ onOpenVideoModal
 
                 {/* Action Trigger */}
                 <button
-                  onClick={() => onOpenVideoModal(video)}
+                  onClick={() => onOpenVideoModal({ ...video, src: SAMPLE_STREAMS[idx % SAMPLE_STREAMS.length] })}
                   className="w-full py-2.5 rounded-xl bg-indigo-600/15 hover:bg-indigo-600 text-indigo-300 hover:text-white border border-indigo-500/30 text-xs font-semibold flex items-center justify-center gap-2 transition-all"
                 >
                   <Play size={14} className="fill-current" />
