@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Play, Pause, Volume2, VolumeX, Maximize, Film, Tag } from 'lucide-react';
+import { X, Play, Pause, Volume2, VolumeX, Maximize, Film, Tag, RefreshCw } from 'lucide-react';
 
 export interface VideoModalProps {
   isOpen: boolean;
@@ -21,6 +21,8 @@ export const VideoModal: React.FC<VideoModalProps> = ({ isOpen, onClose, video }
   const [isMuted, setIsMuted] = useState<boolean>(false);
   const [progress, setProgress] = useState<number>(0);
 
+  const [isBuffering, setIsBuffering] = useState<boolean>(false);
+
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose();
@@ -38,6 +40,7 @@ export const VideoModal: React.FC<VideoModalProps> = ({ isOpen, onClose, video }
   useEffect(() => {
     if (isOpen && videoRef.current) {
       videoRef.current.currentTime = 0;
+      setIsPlaying(true);
       videoRef.current.play().catch(() => {
         setIsPlaying(false);
       });
@@ -52,7 +55,7 @@ export const VideoModal: React.FC<VideoModalProps> = ({ isOpen, onClose, video }
       videoRef.current.pause();
       setIsPlaying(false);
     } else {
-      videoRef.current.play();
+      videoRef.current.play().catch(() => {});
       setIsPlaying(true);
     }
   };
@@ -72,9 +75,16 @@ export const VideoModal: React.FC<VideoModalProps> = ({ isOpen, onClose, video }
 
   const handleSeek = (e: React.ChangeEvent<HTMLInputElement>) => {
     if (!videoRef.current) return;
-    const seekTime = (parseFloat(e.target.value) / 100) * (videoRef.current.duration || 1);
-    videoRef.current.currentTime = seekTime;
-    setProgress(parseFloat(e.target.value));
+    const newPercent = parseFloat(e.target.value);
+    const duration = videoRef.current.duration;
+    if (duration && !isNaN(duration)) {
+      const seekTime = (newPercent / 100) * duration;
+      videoRef.current.currentTime = seekTime;
+      setProgress(newPercent);
+      if (isPlaying) {
+        videoRef.current.play().catch(() => {});
+      }
+    }
   };
 
   const toggleFullScreen = () => {
@@ -131,12 +141,28 @@ export const VideoModal: React.FC<VideoModalProps> = ({ isOpen, onClose, video }
 
           {/* Video Player Box */}
           <div className="relative bg-black aspect-video w-full flex items-center justify-center group overflow-hidden">
+            {isBuffering && (
+              <div className="absolute inset-0 z-20 flex flex-col items-center justify-center bg-black/60 backdrop-blur-xs pointer-events-none space-y-2">
+                <RefreshCw size={36} className="animate-spin text-indigo-400" />
+                <span className="text-xs text-indigo-200 font-medium">Loading video...</span>
+              </div>
+            )}
+
             <video
               ref={videoRef}
               src={video.src}
               poster={video.poster || undefined}
+              preload="auto"
               onTimeUpdate={handleTimeUpdate}
               onEnded={() => setIsPlaying(false)}
+              onWaiting={() => setIsBuffering(true)}
+              onPlaying={() => { setIsBuffering(false); setIsPlaying(true); }}
+              onCanPlay={() => setIsBuffering(false)}
+              onSeeked={() => {
+                if (isPlaying && videoRef.current) {
+                  videoRef.current.play().catch(() => {});
+                }
+              }}
               playsInline
               className="w-full h-full object-contain"
               onClick={togglePlay}
